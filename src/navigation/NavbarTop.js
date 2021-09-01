@@ -7,7 +7,6 @@ function NavbarTop() {
   return(
     <div className='topContainer'>
       <Logo />
-      <div className='centerSpacer'/>
       <div className='accountButtons'>
         <div className='login'>
           <p>Login</p>
