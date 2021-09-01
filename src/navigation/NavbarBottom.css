@@ -1,0 +1,14 @@
+.containerBottom {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  height: 100%;
+}
+
+.dynamicLink {
+  backdrop-filter: opacity(70%);
+  color: silver;
+  font-weight: bolder;
+  width: 100%;
+  cursor: pointer;
+}
